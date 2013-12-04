@@ -29,6 +29,12 @@ appear in your project.
 
 The entry point must be an `index.html` file.
 
+The initial size of the main window can be changed in the 
+`MainMenu.xib` file.
+
+New menu item can be added and interfaced with the javascript
+used in the hmtl application.
+
 Build and enjoy.
 
 WebGL
