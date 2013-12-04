@@ -6,7 +6,7 @@ Simple Mac OSX application container for web technologies.
 Installation
 ------------
 
-This project needs (cocoapods)[http://beta.cocoapods.org) 
+This project needs [cocoapods](http://beta.cocoapods.org) 
 for managing its dependencies.
 
     $ sudo gem install cocoapods
@@ -41,7 +41,7 @@ WebGL
 -----
 
 If you want to enable webgl in the webview, you can add the following
-lines at the beggining of the `-applicationDidFinishLaunching` method:
+lines at the begining of the `-applicationDidFinishLaunching` method:
     
     // Enable WebGL.
     WebPreferences *preferences = [self.webView preferences];
